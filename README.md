@@ -1,3 +1,5 @@
+✅▶▶ **[Terraform Module](https://registry.terraform.io/modules/arjunavagadda/s3module/aws/latest)**
+
 To Publish Module:  
 =================  
 1. Create repository in github  
